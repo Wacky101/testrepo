@@ -7,4 +7,5 @@ int main(void) {
 
 void printOne() {
 	printf("1\n");
+	printf("2\n");
 }
