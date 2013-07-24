@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int printTwo() {
-	printf("2\n");
+	printf("1\n");
 }
 
 int main(void) {
