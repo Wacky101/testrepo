@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+int printTwo() {
+	printf("2\n");
+}
+
 int main(void) {
 	printOne();
 	printf("Hello World!\n");
